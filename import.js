@@ -1,2 +1,2 @@
 const final = require('./index')
-console.log(final(10, 5, 6))
+console.log(final(10, 5, 4))
